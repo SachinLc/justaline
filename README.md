@@ -15,3 +15,4 @@ To build the project, download and open it in Android Studio 3.0. All dependenci
 You will need to set up a cloud project with Firebase, ARCore, and with nearby messages enabled. Follow the setup steps in the [ARCore Cloud Anchors Quickstart guide](https://developers.google.com/ar/develop/java/cloud-anchors/cloud-anchors-quickstart-android). 
 
 When you launch the app, it will prompt the Play Store to install ARCore if you don’t already have it. You can check if your device is supported on [this list](https://developers.google.com/ar/discover/#supported_devices).
+"# justaline" 

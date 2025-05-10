@@ -58,7 +58,7 @@ public class RecordButton extends FrameLayout {
     /**
      * The max duration for videos recorded in this app
      */
-    private final long MAX_DURATION = TimeUnit.SECONDS.toMillis(10);
+    private final long MAX_DURATION = TimeUnit.SECONDS.toMillis(30);
 
     /*
      * Views
